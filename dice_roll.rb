@@ -6,6 +6,6 @@
   #1 + rand(6)
 #end
 
-def roll 
-  (1..6)
+def roll
+  return (1..6)
 end
